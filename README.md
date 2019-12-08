@@ -1,12 +1,12 @@
 # react-auth-sample
- Sample with minimum authentication code using React's Context api and firebase
+Minimum sample with authentication using firebase and React's Context api 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Requirement
 
 This project uses firebase's Authentication. Please sign up for firebase and enable google login for Authentication.
-https://firebase.google.com/docs/auth?hl=ja
+https://firebase.google.com/docs/auth
 
 ## Usage
 
